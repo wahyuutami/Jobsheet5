@@ -1,0 +1,13 @@
+# Jobsheet5
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/nullpointerdemo.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/arrayindexdemo.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/arithmeticexception.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/InputMismatchException.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/runtimeexception.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/TestClone.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/convertstringtonumber.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/catch.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/finally.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/throw.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/throws.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet5/blob/master/try.PNG)
